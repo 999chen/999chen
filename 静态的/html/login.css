@@ -1,0 +1,52 @@
+body{
+    background: skyblue;
+}
+#bgDiv{
+    width: 550px;
+    height: 400px;
+    overflow: hidden;
+    border: 1px black;
+}
+#login{
+    width: 420px;
+    height: 340px;
+    position: absolute;
+    margin-top: 34px;
+    margin-left: 50px;
+    background-color: white;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+#top{
+    width: 140px;
+    height: 37px;
+    margin-top: 32px;
+    margin-left: 140px;
+    margin-bottom: 8px;
+}
+#una,
+#pwd{
+    width: 360px;
+    height: 60px;
+    margin: 0 28px;
+    border-bottom: 1px solid gray;
+}
+#username,
+#password{
+    width: 320px;
+    height: 25px;
+    margin-top: 18px;
+    border: none;
+    outline: none;
+    margin-left: 20px;
+}
+#btn{
+    width: 360px;
+    height: 40px;
+    border: 1px solid black;;
+    font-size: 16px;
+    margin-left: 30px;
+}  
